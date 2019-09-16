@@ -33,8 +33,15 @@ tech
 ### TRON TRON
 ### UNUS SED LEO UNUS SED LEO
 ### Dash Dash
+Proof of Service
+
+[whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper)
 ### Tezos Tezos
 ### Chainlink Chainlink
+Oracle
+
+[tech doc](https://docs.chain.link/docs)
+
 ### NEO NEO
 ### IOTA IOTA
 ### Cosmos Cosmos
@@ -121,6 +128,10 @@ tech
 ### Ardor Ardor
 ### Nexo Nexo
 ### Enjin Coin Enjin Coin
+Raiden Network
+
+[whitepaper](https://blockgeeks.com/guides/tendermint/)
+
 ### U Network U Network
 ### Grin Grin
 ### Metaverse ETP Metaverse ETP
